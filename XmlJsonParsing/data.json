@@ -1,0 +1,53 @@
+
+{
+    
+    "data" : [
+        {
+            "title" : "Fruits",
+            "items" : [
+                    "Mango",
+                    "Apple",
+                    "Berrys",
+                    "Lihiju"
+            ]
+        },
+        {
+            "title" : "Bikes",
+            "items" : [
+                    "HUysong",
+                    "Ducati",
+                    "Yamaha",
+                    "R1"
+            ]
+        },
+        {
+            "title" : "Fligts",
+            "items" : [
+                    "Air Asia",
+                    "Indigo",
+                    "Qatar",
+                    "Spicejet"
+            ]
+        },
+        
+        {
+            "title" : "Languages",
+            "items" : [
+                    "Swift",
+                    "Java",
+                    "Python",
+                    "JavaScript"
+            ]
+        },
+        
+        {
+            "title" : "Games",
+            "items" : [
+                    "Valorant",
+                    "Danandras",
+                    "Football",
+                    "Cricket"
+            ]
+        },
+    ]
+}
